@@ -1,0 +1,25 @@
+2023-07-04 19:04:20,521 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-07-04 19:06:50,905 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.GopalDCSApplication:HMS:0.0.1-SNAPSHOT @ G:\Gopal Dental care services\Gopal Dental Care Services\pom.xml.
+2023-07-04 19:06:53,349 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HMS/src/main/java
+2023-07-04 19:06:53,350 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HMS/src/main/resources
+2023-07-04 19:06:53,357 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HMS/src/main/resources
+2023-07-04 19:06:53,363 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HMS/src/test/java
+2023-07-04 19:06:54,457 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2023-07-04 19:06:57,623 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-04 19:06:57,702 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 137 resources from src\main\resources to target\classes
+2023-07-04 19:06:58,226 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Gopal Dental care services\Gopal Dental Care Services\src\test\resources
+2023-07-04 19:07:32,141 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.GopalDCSApplication:HMS:0.0.1-SNAPSHOT @ G:\Gopal Dental care services\Gopal Dental Care Services\pom.xml.
+2023-07-04 19:07:34,129 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-04 19:07:34,173 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 137 resources from src\main\resources to target\classes
+2023-07-04 19:07:34,804 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Gopal Dental care services\Gopal Dental Care Services\src\test\resources
+2023-07-04 19:07:36,715 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-04 19:07:36,736 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 137 resources from src\main\resources to target\classes
+2023-07-04 19:07:37,169 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Gopal Dental care services\Gopal Dental Care Services\src\test\resources
+2023-07-04 19:08:40,891 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-04 19:08:40,894 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-04 19:08:40,905 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Gopal Dental care services\Gopal Dental Care Services\src\test\resources
+2023-07-04 19:17:34,130 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-04 19:17:34,131 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-04 19:17:34,137 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory G:\Gopal Dental care services\Gopal Dental Care Services\src\test\resources
+2023-11-10 10:23:49,087 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-10 10:23:51,583 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
